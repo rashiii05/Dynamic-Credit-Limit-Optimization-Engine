@@ -1,5 +1,7 @@
 # DYNAMIC CREDIT LIMIT OPTIMIZATION ENGINE
 
+[![View Notebook](https://img.shields.io/badge/Render-Jupyter_Notebook-blue?logo=jupyter)](https://nbviewer.org/github/rashiii05/Dynamic-Credit-Limit-Optimization-Engine/blob/main/notebook/NEW.ipynb)
+
 ### 🛠️ Tech Stack
 * **Database:** PostgreSQL
 * **Languages & Core Libraries:** Python, Pandas, NumPy
